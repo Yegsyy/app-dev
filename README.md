@@ -5,12 +5,15 @@ My first repository
 
 **Jura Forest** 
 : Forest Regions
+
 : Jura Tempest Federation
 
 **Rimuru Tempest**
 : A slime with immense magical power and the leader of the monster nation, Tempest.
+
 **Raphael**
 : An awakened skill within Rimuru, acting as an advisor and granting vast knowledge.
+
 **Veldora Tempest**
 : An immensely powerful True Dragon sealed within Rimuru, offering guidance and immense magical reserves.
 
